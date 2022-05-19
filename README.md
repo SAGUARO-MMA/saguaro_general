@@ -17,4 +17,6 @@ Here is the link to the google doc with the evolving SAGUARO Computing and Opera
 
 [SAGUARO Block Diagram](https://docs.google.com/drawings/d/1pSCN-4sajPUx45Pfv0m0NWWPidnngOvWjHJb6MH2Bqg/edit?usp=sharing)
 
+[SAGUARO Observation Planning] (https://docs.google.com/presentation/d/1xqSAfTa4n3o9NWnex8lG8N8IoYNe1uf3RQezTzreiwI/edit?usp=sharing)
+
 Please file issues here that are not directly related to a given repository in this organization already.
