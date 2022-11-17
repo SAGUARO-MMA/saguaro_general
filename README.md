@@ -10,6 +10,13 @@ Here is a link to our meeting notes and agendas.
 
 [Meeting notes](https://docs.google.com/document/d/1uN0iVtkUOsV3FsXo3ljojo7nd__hUTVPpq1czdvb7Yw/edit?usp=sharing)
 
+## Trello Board for O4 Critical Path
+
+
+[Trello Board for O4](https://trello.com/b/i1x8Ct7F/saguaro-o4)
+
+
+
 ## SAGUARO Operations Plan
 Here is the link to the google doc with the evolving SAGUARO Computing and Operations Plan for O4.  The goal is to plan what computers should be purchased, where they should go, and to make general plans for software that needs to be developed.  There is an accompanying simple block diagram as well.
 
